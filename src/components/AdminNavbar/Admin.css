@@ -1,0 +1,19 @@
+/* Admin.css */
+
+/* Si es un <header> con borde inferior muy grueso: */
+header {
+  border-bottom: 1px solid #222 !important;
+  padding-bottom: 0.5rem; /* opcional, ajusta el espacio */
+}
+
+/* Si en vez de header es la barra de navegación */
+.nav {
+  border-bottom: 1px solid #222 !important;
+}
+
+/* Si tienes un <hr> debajo de la cabecera */
+hr {
+  border: none;
+  border-top: 1px solid #222 !important;
+  margin: 0; /* opcional, ajusta el espaciado */
+}
